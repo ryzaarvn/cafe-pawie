@@ -1,19 +1,19 @@
 # Cafe Pawie
 Cafe Pawie adalah website reservasi cafe bertema kucing yang dibuat untuk memudahkan pelanggan melakukan pemesanan kunjungan secara online serta membantu admin mengelola data reservasi dan laporan pendapatan.
 
-## Daftar Anggota Kelompok
+## Anggota Kelompok
 - Riza Arvin Mahardhika (2410631170106)
 - Lacinta Theo Gracia Hutasoit (2410631170078)
 - Nadrina Pratama Hilyawanti (2410631170160)
 
-## Deskripsi dan Tujuan Website
+## Deskripsi
 Website **Cafe Pawie** merupakan aplikasi berbasis web untuk layanan reservasi kunjungan cafe. Pengguna dapat membuat akun, login, melakukan reservasi, mengunggah bukti pembayaran, melihat riwayat reservasi, dan mencetak atau melihat resi reservasi. Tujuan pembuatan website ini adalah:
 - Mempermudah pelanggan dalam melakukan reservasi tanpa harus datang langsung ke cafe.
 - Membantu admin mengelola data reservasi pelanggan.
 - Membantu admin memantau status pembayaran dan status pesanan.
 - Menyediakan laporan pendapatan berdasarkan data reservasi yang telah selesai.
 
-## Fitur Utama Website
+## Fitur
 
 ### Fitur Pengguna / Pengunjung
 - Registrasi akun pengguna.
@@ -37,7 +37,7 @@ Website **Cafe Pawie** merupakan aplikasi berbasis web untuk layanan reservasi k
 - Menghapus data laporan reservasi.
 - Melihat data reservasi berdasarkan tanggal dan status.
 
-## Teknologi yang Digunakan
+## Tools
 - PHP Native
 - MySQL / MariaDB
 - HTML
@@ -46,7 +46,7 @@ Website **Cafe Pawie** merupakan aplikasi berbasis web untuk layanan reservasi k
 - Bootstrap
 - XAMPP / phpMyAdmin
 
-## Struktur Project
+## Struktur File
 ```text
 Project PBW/
 ├── admin/
@@ -92,7 +92,7 @@ Project PBW/
 └── README.md
 ```
 
-## Penjelasan Folder dan File Penting
+## Files
 - `login.php` (Halaman login untuk pengguna dan admin.)
 - `register.php` (Halaman registrasi akun pembeli.)
 - `dashboard.php` (Dashboard utama untuk pengguna setelah login.)
@@ -184,7 +184,7 @@ register.php
 
 Setelah registrasi berhasil, pengguna dapat login melalui halaman login.
 
-## Link Video Presentasi Project
+## Link Video Presentasi
 Link video presentasi:
 ```text
 https://drive.google.com/drive/folders/1AtIni8Z1CRMlkEO1StEkGd2LYf4ZaRBH?usp=sharing
