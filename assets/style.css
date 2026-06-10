@@ -1,0 +1,70 @@
+body {
+    background-color: #FFFBE9;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.text-cafe {
+    color: #AD8B73;
+}
+
+.sidebar {
+    min-height: 100vh;
+}
+
+.content-area {
+    overflow-y: auto;
+    height: 100vh;
+}
+
+.card-cafe {
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    border: 1px solid #E3CAA5;
+}
+
+.btn-cafe {
+    background-color: #AD8B73;
+    color: white;
+    border: none;
+    transition: 0.3s;
+}
+
+.btn-cafe:hover {
+    background-color: #CEAB93;
+    color: white;
+}
+
+.form-control-cafe {
+    border: 1px solid #E3CAA5;
+}
+
+.form-control-cafe:focus {
+    border-color: #AD8B73;
+    box-shadow: 0 0 0 0.2rem rgba(173, 139, 115, 0.25);
+}
+
+.nav-pills .nav-link {
+    color: #AD8B73;
+    margin-bottom: 0.5rem;
+    border-radius: 8px;
+}
+
+.nav-pills .nav-link:hover {
+    background-color: #FFFBE9;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #AD8B73;
+    color: white;
+}
+
+.hero-cafe {
+    background-color: #AD8B73;
+    color: white;
+}
+
+.img-cat {
+    object-fit: cover;
+    height: 200px;
+}
