@@ -48,7 +48,7 @@ Website **Cafe Pawie** merupakan aplikasi berbasis web untuk layanan reservasi k
 
 ## Struktur File
 ```text
-Project PBW/
+cafe-pawie/
 ├── admin/
 │   ├── admin.php
 │   └── laporan.php
